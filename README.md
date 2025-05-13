@@ -23,12 +23,12 @@ THIS VERSION OF MSMC SUPPORTS MAC INTEL/M SERIES!
 
 You do not need to install tor. Tor is automatically installed when selected for proxies.
 
-Step 1: install [python](https://www.python.org/downloads/) and [git](https://git-scm.com/downloads/mac)
-Step 2: Open terminal and paste the following:
-git clone https://github.com/xGCrafter/MSMC_MacOS.git
-cd MSMC_MacOS
-pip install -r requirements.txt
-python MSMC_MacOS.py
+Step 1: install [python](https://www.python.org/downloads/) and [git](https://git-scm.com/downloads/mac) <br>
+Step 2: Open terminal and paste the following: <br>
+git clone https://github.com/xGCrafter/MSMC_MacOS.git <br>
+cd MSMC_MacOS <br>
+pip install -r requirements.txt <br>
+python MSMC_MacOS.py 
 
 
 # Support Server:
