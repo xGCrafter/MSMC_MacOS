@@ -12,11 +12,11 @@ MSMC_MacOS is a minecraft account checker that checks through microsoft xbox log
 user:pass@ip:port and ip:port
 
 # Captures:
-xbox game pass/xbox game pass ultimate accounts
-minecraft capes
-optifine cape
-email access
-last name change
+xbox game pass/xbox game pass ultimate accounts <br>
+minecraft capes <br>
+optifine cape <br>
+email access <br>
+last name change <br>
 
 # Installation 
 THIS VERSION OF MSMC SUPPORTS MAC INTEL/M SERIES!
