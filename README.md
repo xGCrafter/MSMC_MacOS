@@ -2,8 +2,7 @@
 
 MSMC For MacOS Users
 
-# ORIGINALLY MADE BY 
-# https://github.com/MachineKillin/MSMC
+# ORIGINALLY MADE BY https://github.com/MachineKillin/MSMC
 
 # Made by gcrafter70003 [Discord Tag]
 ABOUT:
@@ -26,8 +25,8 @@ You do not need to install tor. Tor is automatically installed when selected for
 
 Step 1: install [python](https://www.python.org/downloads/) and [git](https://git-scm.com/downloads/mac)
 Step 2: Open terminal and paste the following:
-git clone 
-cd 
+git clone https://github.com/xGCrafter/MSMC_MacOS.git
+cd MSMC_MacOS
 pip install -r requirements.txt
 python MSMC_MacOS.py
 
